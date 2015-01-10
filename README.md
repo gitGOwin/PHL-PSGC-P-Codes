@@ -1,7 +1,7 @@
 # PHL-PSGC-P-Codes
 Some of my projects require me to work through various iterations of the PSGC. The irksome thing with it is that codes assigned to a geographic entity are subject to change from one year to another. Although it doesn't happen very often my use case still requires me to use P-codes that are applicable for any given year. 
 
-Philippine Place code (P-Code) matrix from 1990-2014, from the [Philippine Standard Geographic Codes](www.nscb.gov.ph/activestats/psgc/default.asp)
+Philippine Place code (P-Code) matrix from 1990-2014, from the [Philippine Standard Geographic Codes](http://www.nscb.gov.ph/activestats/psgc/default.asp)
 
 ##Changelog
 2015-01-10 - First commit.

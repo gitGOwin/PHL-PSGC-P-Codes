@@ -4,8 +4,8 @@ Some of my projects require me to work through various iterations of the PSGC. T
 Philippine Place code (P-Code) matrix from 1990-2014, from the [Philippine Standard Geographic Codes](http://www.nscb.gov.ph/activestats/psgc/default.asp)
 
 ##Changelog
-2015-01-13 - Added column "note." Fixed typograhical errors
-2015-01-10 - First commit.
+* 2015-01-13 - Added column "note." Fixed typograhical errors
+* 2015-01-10 - First commit.
 
 ##Column description
 
